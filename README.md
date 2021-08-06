@@ -12,3 +12,15 @@
 <td><img src="https://user-images.githubusercontent.com/3738275/128448968-8ca3b957-4280-469a-9d6d-ec9bd0287254.jpg" width=250px /></td>
 </tr>
 </table>
+
+Meet Mochi and Sake. These rats inspired us to understand their ultrasonic vocalisations.
+
+We noticed they make lots of highly structured sounds. Mochi made these sounds after Sake stole a piece of lettuce from him: 
+
+![paste](https://user-images.githubusercontent.com/3738275/128449996-8477b1c6-7b28-4b8d-a3e8-987e52439d78.png)
+
+Todo:
+
+- [ ] Upload and manually trim some vocalizations
+- [ ] Make a script that isolates the vocalizations
+- [ ] Make a script that records live, and saves whenever there are vocalizations.
